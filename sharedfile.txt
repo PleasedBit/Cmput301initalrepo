@@ -1,0 +1,6 @@
+public static main() {
+	//some main method
+	
+	int x = 0;
+	
+}
