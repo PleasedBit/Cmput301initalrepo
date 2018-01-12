@@ -1,3 +1,6 @@
 # Cmput301initalrepo
 
-demo repo 1391493 Craig Lindsay
+clindsay
+1391493 Craig Lindsay
+
+demo repo 
